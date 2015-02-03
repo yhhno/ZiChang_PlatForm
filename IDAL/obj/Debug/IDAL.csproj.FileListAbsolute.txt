@@ -1,0 +1,15 @@
+G:\子长\PlatForm\IDAL\obj\Debug\ResolveAssemblyReference.cache
+G:\子长\PlatForm\Assembly\IndustryPlatform.IDAL.dll
+G:\子长\PlatForm\Assembly\IndustryPlatform.IDAL.pdb
+G:\子长\PlatForm\IDAL\obj\Debug\IndustryPlatform.IDAL.dll
+G:\子长\PlatForm\IDAL\obj\Debug\IndustryPlatform.IDAL.pdb
+E:\工作\天大天科资料\子长项目\调运\PlatForm\Assembly\IndustryPlatform.IDAL.dll
+E:\工作\天大天科资料\子长项目\调运\PlatForm\Assembly\IndustryPlatform.IDAL.pdb
+E:\工作\天大天科资料\子长项目\调运\PlatForm\IDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\天大天科资料\子长项目\调运\PlatForm\IDAL\obj\Debug\IndustryPlatform.IDAL.dll
+E:\工作\天大天科资料\子长项目\调运\PlatForm\IDAL\obj\Debug\IndustryPlatform.IDAL.pdb
+D:\YPF\TDTK\子长煤炭调运\7.源码\平台\PlatForm\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+D:\YPF\TDTK\子长煤炭调运\7.源码\平台\PlatForm\IDAL\obj\Debug\IndustryPlatform.IDAL.dll
+D:\YPF\TDTK\子长煤炭调运\7.源码\平台\PlatForm\IDAL\obj\Debug\IndustryPlatform.IDAL.pdb
+D:\YPF\TDTK\子长煤炭调运\7.源码\平台\PlatForm\Assembly\IndustryPlatform.IDAL.dll
+D:\YPF\TDTK\子长煤炭调运\7.源码\平台\PlatForm\Assembly\IndustryPlatform.IDAL.pdb

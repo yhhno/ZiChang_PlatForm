@@ -1,0 +1,98 @@
+SCC = This is a Source Code Control file.
+
+[AlarmSystem.sln]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/AlarmSystem
+
+[AlarmSystem.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/AlarmSystem/AlarmSystem/AlarmSystem
+
+[Setup1.vdproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/AlarmSystem/Setup1
+
+[CoalTraffic(BS).sln]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(BS)
+
+[BLL.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(CS)/BLL
+
+[DALFactory.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(BS)/DALFactory
+
+[DBUtility.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/SendCard/SendCard/DBUtility
+
+[IDAL.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(BS)/IDAL
+
+[Model.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(CS)/Model
+
+[SQLServerDAL.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(CS)/SQLServerDAL
+
+[CoalTraffic.sln]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(CS)
+
+[ReWriteInstall.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(CS)/ReWriteInstall
+
+[CoalTraffic.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(CS)/CoalTraffic
+
+[调运系统安装包.vdproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/CoalTraffic(CS)/调运系统安装包
+
+[ICCardInitialize.sln]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/ICCardInitialize
+
+[ICCardInitialize.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/ICCardInitialize/ICCardInitialize
+
+[IC卡初始化程序安装包.vdproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/ICCardInitialize/IC卡初始化程序安装包
+
+[SendCard.sln]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/SendCard/SendCard
+
+[SendCard.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/SendCard/SendCard/SendCard
+
+[天科发卡程序.vdproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/SendCard/SendCard/天科发卡程序
+
+[SqlDataReceive.sln]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/SqlDataReceive
+
+[SqlDataReceive.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/SqlDataReceive/SqlDataReceive
+
+[同步程序安装包.vdproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/SqlDataReceive/同步程序安装包
+
+[ThirdLibrary.sln]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/CoalTraffic/ThirdLibrary
+

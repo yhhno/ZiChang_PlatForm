@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdLibrary", "ThirdLibrary\ThirdLibrary.csproj", "{46B562E8-D702-4A75-B5F0-47BC0231113F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{4D1A29E0-7DE6-4A04-9AFB-ABA8BFC4EADA}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Example\\Example.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = Example\\
+		SccProjectUniqueName2 = ThirdLibrary\\ThirdLibrary.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = ThirdLibrary\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B562E8-D702-4A75-B5F0-47BC0231113F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B562E8-D702-4A75-B5F0-47BC0231113F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B562E8-D702-4A75-B5F0-47BC0231113F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B562E8-D702-4A75-B5F0-47BC0231113F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1A29E0-7DE6-4A04-9AFB-ABA8BFC4EADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1A29E0-7DE6-4A04-9AFB-ABA8BFC4EADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1A29E0-7DE6-4A04-9AFB-ABA8BFC4EADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1A29E0-7DE6-4A04-9AFB-ABA8BFC4EADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

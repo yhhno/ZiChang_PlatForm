@@ -1,0 +1,16 @@
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.Properties.Resources.resources
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.AlarmSound.resources
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.Appearance.resources
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.DHVideo.resources
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.LPR.resources
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.ScanControl.resources
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.UserControl1.resources
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.csproj.GenerateResource.Cache
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\bin\Release\ThirdLibrary.dll.config
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\bin\Release\ThirdLibrary.dll
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\bin\Release\ThirdLibrary.pdb
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\bin\Release\AxInterop.WIA.dll
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\bin\Release\Interop.WIALib.dll
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.dll
+D:\调运系统\子长\PlatForm\ThirdLibrary\ThirdLibrary\obj\Debug\ThirdLibrary.pdb

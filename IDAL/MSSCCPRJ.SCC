@@ -1,0 +1,22 @@
+SCC = This is a Source Code Control file.
+
+[IndustryPlatform.sln]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/IndustryPlatform
+
+[BLL.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/IndustryPlatform/BLL
+
+[DALFactory.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/IndustryPlatform/DALFactory
+
+[DBUtility.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/IndustryPlatform/DBUtility
+
+[IDAL.csproj]
+SCC_Aux_Path = 192.168.1.100:8877:HYZG
+SCC_Project_Name = $/PlatForm/IndustryPlatform/IDAL
+

@@ -1,0 +1,71 @@
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.pdb
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.ResolveComReference.cache
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+D:\项目\子长\报警语音系统\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.Main.resources
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\obj\Debug\AlarmSystem.csproj.ResolveComReference.cache
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\obj\Debug\AlarmSystem.Main.resources
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\bin\Debug\AlarmSystem.exe
+D:\项目\子长\报警语音系统\AlarmSystem新LED2008显示字幕\AlarmSystem\bin\Debug\AlarmSystem.pdb
+E:\平台\子长调运\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+E:\平台\子长调运\AlarmSystem\AlarmSystem\obj\Debug\Interop.CL2005OCXLib.dll
+E:\平台\子长调运\AlarmSystem\AlarmSystem\obj\Debug\AxInterop.CL2005OCXLib.dll
+E:\平台\子长调运\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.ResolveComReference.cache
+E:\平台\子长调运\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.exe
+E:\平台\子长调运\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
+E:\平台\子长调运\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe
+E:\平台\子长调运\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.pdb
+E:\平台\子长调运\AlarmSystem\AlarmSystem\bin\Debug\Interop.CL2005OCXLib.dll
+E:\平台\子长调运\AlarmSystem\AlarmSystem\bin\Debug\AxInterop.CL2005OCXLib.dll
+E:\平台\子长调运\AlarmSystem\AlarmSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\平台\子长调运\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+E:\平台\子长调运\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+E:\平台\子长调运\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.LED屏幕报警显示.resources
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.exe
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.pdb
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.LED屏幕报警显示.resources
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\项目\通用\scl2008语音报警系统\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+D:\项目\通用\scl2008语音报警系统\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.ResolveComReference.cache
+D:\项目\通用\scl2008语音报警系统\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\项目\通用\scl2008语音报警系统\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.ResolveComReference.cache
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.pdb
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.LED屏幕报警显示.resources
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\调运系统\子长\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache
+D:\子长项目\程序备份\PlatForm\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+D:\子长项目\程序备份\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.ResolveComReference.cache
+D:\子长项目\程序备份\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\子长项目\程序备份\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\子场源码\PlatForm\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe.config
+D:\子场源码\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.exe
+D:\子场源码\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.pdb
+D:\子场源码\PlatForm\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.exe
+D:\子场源码\PlatForm\AlarmSystem\AlarmSystem\bin\Debug\AlarmSystem.pdb
+D:\子场源码\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\子场源码\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.LED屏幕报警显示.resources
+D:\子场源码\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.Properties.Resources.resources
+D:\子场源码\PlatForm\AlarmSystem\AlarmSystem\obj\Debug\AlarmSystem.csproj.GenerateResource.Cache

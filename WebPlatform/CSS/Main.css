@@ -1,0 +1,675 @@
+﻿html
+{
+	overflow-x: auto;
+}
+
+body
+{
+	margin-top: 0;
+	margin-bottom: 0;
+	
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	font-size: 12px;
+}
+/*ifame中page的样式*/
+.iframePage
+{
+	padding:0 5px 0 5px;
+	width:99%;	
+}
+/*在页面中所有的Table宽度都为100%，如果想特定某个Table固定宽度请单独设置*/
+body table
+{
+	margin: 0;
+	padding: 0;
+	/*width:auto;*/
+	border-collapse: collapse;
+	font-size: 12px;
+}
+body img
+{
+   /*影响登陆的样式
+    border-style: none;
+	border-color: inherit;
+	border-width: 0;
+	height: 26px;*/
+	margin: 0;
+	border: 0;
+}
+
+/*
+*页面中上面分隔条样式
+*/
+body hr
+{
+	width: 100%;
+	border: solid 2px #92B541;
+	margin-top: 5px;
+}
+
+body h4
+{
+	background-image: url('../../Images/cycle.jpg');
+	background-repeat: no-repeat;
+	background-position: 0 2px;
+	padding-left: 20px;
+	font-family: 黑体;
+	color: #466B1B;
+	font-size: 14px;
+	display: block;
+	margin: 10px 0 10px 5px;
+}
+
+
+
+/**
+*页面中按钮容器样式
+*/
+.action
+{
+	clear: both;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	padding-top:10px;
+	border-top: solid 2px #99bbe8;
+}
+.action1
+{
+	clear: both;
+	width: 100%;
+	text-align: center;
+	margin-top: 10px;
+	padding-top:10px;
+	border-top: solid 2px #99bbe8;
+}
+/*
+**容器样式 开始
+*/
+.canvas
+{
+	margin-top:-10px;
+	margin-left: -10px;
+	margin-right:-10px;
+	border-left: solid 2px #ffffff;
+	/*background-color: #d2e0f1;*/
+}
+/*结束*/
+
+
+/*开始：主页面头样式*/
+.header
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	min-width: 1024px;
+	border-collapse: collapse;
+}
+.header td
+{
+	background-image: url('../../Images/header-bg.jpg');
+	margin: 0px;
+	border: 0;
+	border-collapse: collapse;
+}
+#welcome
+{
+	background-image: url('../../Images/header-bg.jpg');
+	width: 204px;
+	height: 50px;
+}
+#banner
+{
+	background-image: url('../../Images/banner.jpg');
+	width: 210px;
+	height: 50px;
+}
+/*工具栏容器*/
+#toolbarContainer
+{
+	width: 350px;
+}
+/*工具栏样式*/
+/*
+*虽然在这里设置了没有边框但单元格之间还是存在2px缝隙，只能用collpadding='0'和cellspacing='0'html属性来设置
+*/
+#toolbar
+{
+	margin: 0;
+	padding: 0;
+	width: 1px;
+	position: absolute;
+	top: 10px;
+	left: 470px;
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+#spanDate
+{
+	font-size: 12px;
+	color: #528200;
+}
+/*结束：主页面头样式*/
+#tdNavigation
+{
+	width: 200px;
+	background-color: #d2e0f1;
+	vertical-align: top;
+}
+
+#spiltter
+{
+	width: 1px;
+	background-color: #92B541;
+	border-left: solid 1px #466B1B;
+	border-right: solid 1px #466B1B;
+	cursor: w-resize;
+}
+
+.innerSpiltter
+{
+	width: 14px;
+	display: none;
+	padding-left: 2px;
+}
+
+#centers
+{
+	/*height: 100%;*/
+	vertical-align: top;
+}
+/*页面左上角显示登陆名*/
+#caption
+{
+	position: absolute;
+	top: 10px;
+	left: 20px;
+	width: 200px;
+	height: 30px;
+	background-image: url('../../Images/caption.jpg');
+	background-repeat: no-repeat;
+	padding-top: 5px;
+	padding-left: 25px;
+	font-family: 黑体;
+	color: #528200;
+	font-size: 14px;
+}
+
+/*页面左上角显示登陆名*/
+
+/*开始：页面容器样式
+*该样式即主页面中iframe的样式
+*/
+#container
+{
+	border: 0px;
+	margin: 0px;
+	width: 100%;
+	/*height: 100%;*/
+	padding: 0 0 0 0;
+	overflow: auto;
+}
+/*结束：页面容器样式*/
+
+/*开始：页脚样式*/
+#footer
+{
+	background-image: url('../../Images/footer-bg.jpg');
+	width: 100%;
+	height: 23px;
+}
+
+#footer .copyright
+{
+	font-size: 12px;
+	color: #466B1B;
+	padding: 3px 0 0 5px;
+	float: left;
+	padding: 3px 0 0 20px;
+}
+
+#footer .support
+{
+	font-size: 12px;
+	color: #466B1B;
+	padding: 3px 20px 0 0;
+	float: right;
+}
+/*结束：页面样式*/
+
+#spanDate
+{
+	font-size: 14px;
+	color: #528200;
+}
+
+.collapseNavigation
+{
+	clear: both;
+	background-image: url('../../../App_Themes/Default/Images/collapse-l.jpg');
+	position: absolute;
+	top: -20px;
+	float: right;
+	z-index: 100;
+	width: 14px;
+	height: 14px;
+}
+
+#collapseToolbar
+{
+	clear: both;
+	width: 100%;
+	height: 20px;
+}
+
+/*必填项样式*/
+.required
+{
+	color: Red;
+}
+/*必填项样式*/
+
+
+/*开始：登陆页面样式*/
+.placeHolder
+{
+	width: 100%;
+	height: 200px;
+}
+.logo
+{
+	width: 100%;
+	height: 49px;
+	background-image: url('../../Images/logo.jpg');
+	background-position: 45% 0;
+	background-repeat: no-repeat;
+}
+
+
+
+.imgHover
+{
+	star : expression(onmouseover=function(){this.className="overImg"},onmouseout=function(){	this.className="outImg" }) 
+}
+
+.overImg
+{
+   border-color:#FF6699;border-width:1px;border-style:Solid;
+   position:relative; top:1px;left:1px;
+   cursor:hand;
+}
+
+.outImg
+{
+    border:0px;
+	position:relative; top:0px;left:0px 
+}
+
+/*输入框的样式*/
+.textbox
+{
+    padding:1px 3px;
+    border:1px solid #B5B8C8;
+    FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#eeeeee, EndColorStr=#ffffff);
+    star : expression(onfocus=function(){this.className="textbox_focus"},onblur=function(){	this.className="textbox" }) 
+}
+
+.textbox_focus
+{
+    FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#eeeeee, EndColorStr=#ffffff);
+    padding:1px 3px;
+    border:1px solid #7eadd9;
+    border-bottom:1px solid #B5B8C8;
+}
+
+.companyName
+{
+	width: 100%;
+	height: 26px;
+	background-image: url('../../Images/shadow.jpg');
+	background-repeat: repeat-x;
+	padding-top: 7px;
+}
+.companyName span
+{
+	font-size: 12px;
+	color: #a6c4ec;
+	margin-left: 75%;
+}
+/*结束：登陆页面样式*/
+
+
+/*开始：TreeView样式*/
+.treeview
+{
+	/*width:auto;*/
+	font-family: 宋体;
+	font-size: 12px;
+	color: #000000;
+}
+
+/*结束：TreeView样式*/
+
+/*开始：设置button的样式*/
+.btn
+{
+	border-right: #717171 1px solid;
+	padding-right: 2px;
+	border-top: #717171 1px solid;
+	padding-left: 2px;
+	font-size: 12px;
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,  	StartColorStr=#ffffff, EndColorStr=#747474);
+	border-left: #717171 1px solid;
+	cursor: hand;
+	color: black;
+	padding-top: 2px;
+	border-bottom: #717171 1px solid outline-styl: none;
+	
+}
+
+.btn3_mouseout
+{
+	border-right: #717171 1px solid;
+	padding-right: 2px;
+	border-top: #717171 1px solid;
+	padding-left: 2px;
+	font-size: 12px;
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#747474);
+	border-left: #717171 1px solid;
+	cursor: hand;
+	color: black;
+	padding-top: 2px;
+	border-bottom: #717171 1px solid;
+}
+
+.btn3_mousedown
+{
+	border-right: #476819 1px solid;
+	padding-right: 2px;
+	border-top: #476819 1px solid;
+	padding-left: 2px;
+	font-size: 12px;
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#758585);
+	border-left: #476819 1px solid;
+	cursor: hand;
+	color: black;
+	padding-top: 2px;
+	border-bottom: #476819 1px solid;
+}
+.btn3_mouseover
+{
+	border-right: #717171 1px solid;
+	padding-right: 2px;
+	border-top: #717171 1px solid;
+	padding-left: 2px;
+	font-size: 12px;
+	filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0,StartColorStr=#ffffff, EndColorStr=#888686);
+	border-left: #717171 1px solid;
+	cursor: hand;
+	color: black;
+	padding-top: 2px;
+	border-bottom: #717171 1px solid;
+}
+/*结束：设置button的样式*/
+
+
+/*开始：TableLayout样式*/
+.tableLayout
+{
+	/*margin:10px 0 10px 10px;*/
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;	
+}
+
+
+.tableLayout tr
+{
+	height: 25px;
+	margin: 0 10px 0 10px;
+}
+.fristCell
+{
+	text-align: right;
+}
+/*结束：TableLauout样式*/
+
+
+/*开始：列表页中查询条件容器样式*/
+.search
+{
+	margin: 0;
+	background: #d2e0f1;
+	width: 100%;
+	font-size:12px;
+}
+
+.searchinput
+{
+	margin: 0;
+	
+	width: 100px;
+	font-size:12px;
+	border-right: #c5c5c5 1px solid;
+	border-top: #c5c5c5 1px solid;
+	border-left: #c5c5c5 1px solid;
+	border-bottom: #c5c5c5 1px solid;
+}
+
+
+.search b.rtop, .search b.rbottom
+{
+	display: block;
+	background: #FFF;
+}
+.search b.rtop b, .search b.rbottom b
+{
+	display: block;
+	height: 1px;
+	overflow: hidden;
+	background: #d2e0f1;
+}
+.search b.r1
+{
+	margin: 0 5px;
+}
+.search b.r2
+{
+	margin: 0 3px;
+}
+.search b.r3
+{
+	margin: 0 2px;
+}
+.search b.rtop b.r4, .search b.rbottom b.r4
+{
+	margin: 0 1px;
+	height: 2px;
+}
+/*开始：列表页中查询条件容器样式*/
+
+
+/*开始：权限管理页样式*/
+.systemContainer
+{
+	width: 100%;
+	margin: 5px 5px 5px 13px;
+}
+.groupContainer
+{
+	width: 100%;
+	margin-bottom: 5px;
+	border-left: solid 1px #000000;
+}
+.groupName
+{
+	clear: both;
+	width: 300px;
+	height: 30px;
+}
+.functionContainer
+{
+	position: relative;
+	float: left;
+	height: 20px;
+	margin-left: 15px;
+	border-left: solid 1px #000000;
+}
+
+.minus
+{
+	margin: 0;
+	background-position: 10px 10px;
+	border-bottom: solid 2px #ffffff;
+	background-image: url('../../Images/minus.gif');
+	background-repeat: no-repeat;
+	background-color: #d2e0f1;
+	padding-top: 10px;
+	padding-left: 30px;
+	cursor: pointer;
+	clear: both;
+}
+.plus
+{
+	margin: 0;
+	background-position: 10px 10px;
+	border-bottom: solid 2px #ffffff;
+	background-image: url('../../Images/plus.gif');
+	background-repeat: no-repeat;
+	background-color: #d2e0f1;
+	padding-top: 10px;
+	padding-left: 30px;
+	cursor: pointer;
+	clear: both;
+}
+/*结束：权限管理页样式*/
+
+
+/*DropDownList样式*/
+.ddl
+{
+	font-size: 9pt;
+	font-family: "Verdana, Arial, 宋体";
+	background-color: #fefefe;
+	border: 1px solid #c6c6c6;
+	width:202px;
+}
+
+
+/*分页控件的样式*/
+.page
+{
+    height:27px;
+	background-image: url('../../Images/pagebg.jpg');
+	text-align: center;
+}
+
+.GridViewHead
+{
+    height:22px;
+	background-image: url('../../Images/gridbg.jpg');
+	text-align: left;
+}
+
+.RowStyle
+{
+	font-size: 10pt;
+	height: 20px;
+	text-align: left;
+	background-color: #fff;
+	star :expression(onmouseover=function(){if(this.className!="RowStyleChecked"){this.className="RowStyleOver";}},onmouseout=function(){	
+if(this.className!="RowStyleChecked"){this.className="RowStyleOut"} }) 
+}
+
+.RowStyleOut
+{
+    font-size: 10pt;
+	height: 20px;
+	text-align: left;
+	background-color: #fff;
+}
+
+.RowStyleOver
+{
+    font-size: 10pt;
+	height: 20px;
+	text-align: left;
+	background-color: #EFEFEF;
+	cursor:hand;
+}
+
+.RowStyleChecked
+{
+    font-size: 10pt;
+	height: 20px;
+	text-align: left;
+	background-color: #DFE8F6;
+	cursor:hand;
+	border-bottom: white 1px solid;
+}
+
+
+/*链接的样式*/
+
+  a:link {
+                text-decoration: none;
+                color: #000000;
+        }
+        a:visited {
+                color: #797979;
+                text-decoration: none;
+        }
+        a:hover {
+                color: #3356b4;
+                text-decoration: none;
+        }
+        a:active {
+                color: #3356b4;
+                text-decoration: none;
+        }
+        
+/*面板样式*/
+.tool_over_left{
+    width:3px;
+    height:21px;
+    background:url(../../images/form/tb-btn-sprite.gif) no-repeat 0 0px;
+
+}
+.tool_over_right{
+	width:3px;
+	height:21px;
+	background:url(../../images/form/tb-btn-sprite.gif) no-repeat 0 -21px;
+   
+}
+.tool_over_center{
+	background:url(../../images/form/tb-btn-sprite.gif) repeat-x 0 -42px;
+	vertical-align: middle;
+	text-align:center;
+	padding:0 5px;
+	cursor:pointer;
+	white-space:nowrap;
+   
+}
+.spilt
+{
+	background-image: url(../../images/form/grid-blue-split.gif);
+	background-position: center;
+	background-repeat: no-repeat;
+	display: block;
+	font-size: 1px;
+	height: 16px;
+	width:4px;
+	overflow: hidden;
+	cursor:default;
+	margin: 0 2px 0;
+	border:0;
+ }
+ 
+ /*设置树的线条不断开*/
+  .tree td div  
+  {
+       height: 20px !important  
+  }

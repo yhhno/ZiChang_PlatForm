@@ -1,0 +1,11 @@
+AlarmSystem		LED屏幕报警显示
+Assembly		？
+Document		文档
+ICCardInitialize	IC卡初始化程序安
+PrecompiledWeb		？
+SendCard		发卡程序
+SqlDataReceive		同步程序
+ThirdLibrary 		控件组件
+UserControl		？
+WebPlatform		行业主管平台
+初始化程序		？
